@@ -33,10 +33,9 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/lokeshshinde500/FreelancerApp-Fullstack
+git clone https://github.com/yaksh9737/Project-Manager-App
 
-frontend deployement link : https://starlit-genie-5e247d.netlify.app/
-backend deployement link : https://freelancerapp-yfd1.onrender.com/
+
 
 cd library-system
 Install the dependencies:
